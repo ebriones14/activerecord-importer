@@ -1,0 +1,7 @@
+development:
+  adapter  : mysql2
+  database : bulk_update_development
+  encoding : utf8
+  username : root
+  password : mysqladmin
+  host     : localhost
